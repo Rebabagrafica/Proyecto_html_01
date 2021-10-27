@@ -1,0 +1,116 @@
+body{
+    background-color: red;
+}
+.parrafoBlue {
+    color: blue
+}
+
+#parrafo {
+    color
+}
+
+div > .titlle {
+
+}
+
+h1 ~ h2
+
+h1 + h2 
+
+
+h1:hover { 
+    color: red;
+    transition: color .3s ease-in-out;
+
+    display; afterblock;
+}
+
+cargar tipo 
+
+@font-face{
+
+    fonf-family; charterBold;
+    src; (../fonts/charter- bold.ort);
+    font-weight; normal;
+
+}
+
+body{
+
+    font-family; charterBold;
+}
+
+
+p{
+
+    font-family; charterBold;
+}
+
+
+ --- link y propiedad de google font 
+
+ inport y body 
+
+ <b> poner en negrita o bold 
+
+ <span> no tenia valor 
+
+ font-weight; 700;  
+
+
+variable 
+
+:root {
+    --ColorPrimary: #fff0000;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.content {
+    background-color; var(--ColorPrimary);
+
+}
+
+p{
+    color; var(--ColorPrimary);
+
+}
+
+fuente 
+
+font-family
+
+background-image; url(url de una imagen de internet)
+background-image; cover; para adaptar
+
+
+padding interior
+margen exterior
+
+margin left; 80px;
+margin right; 80px;
+margin-top; 80px;
+margin-botton; 80px;
+
+margin; top, rigt, botton, left
+margin:  top y botton + right y left 
+
+margin block estart(arriba abajo 
+margin block end (arriba abajo 
+
+
+margin inline start (li)nea )
+margin inline :end (li)nea )
+
+
+border widdth 6 px
+border style solid 
+border color red 
+
+
+border; 6px; solid, red; 
+
+box-sizzing; border-box; 
+
+

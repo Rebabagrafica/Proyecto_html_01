@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Carga-de-imagenes",
+			"path": ".."
+		},
+		{
+			"name": "practica-01",
+			"path": "../../practica-01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Carga-de-imagenes"
+	}
+}
