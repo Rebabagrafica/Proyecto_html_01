@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.container{
+    max-inline-size: 1280px;
+    margin: auto;
+}
+
+.hero_container {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.boxText{
+    display: inline-block;
+    max-width: 410px    ;
+}
+
+.boxImg {
+    display: inline-block;
+    inline-size: 100%;
+}
+
+.boxImg img {
+    inline-size: 100%;
+}
+
+
+h1{
+    font-family: 'Lora', serif;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+}
+
+a{
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.hero_superbutton{
+    background-color: red;
+}

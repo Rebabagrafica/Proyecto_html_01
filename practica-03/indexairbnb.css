@@ -1,0 +1,89 @@
+:root{
+
+    --basefont:'Roboto', sans-serif;
+    --black: rgba(0, 0, 0, 1);
+    --grey: rgba(117, 117, 117, 1);
+}
+
+body{
+
+    margin: 120px;
+
+
+}
+
+.boxImg {
+
+    position: relative;
+    
+
+}
+
+span { 
+
+    position: absolute;
+    background-color: white;
+    padding: 10px;
+    border-radius: 3px;    
+    text-transform: uppercase;
+    top: 20px;
+    left: 20px;
+
+}
+
+h1{
+    font-weight: 700;
+    font-size: 16px;
+
+}
+
+h2{
+    font-weight: 400;
+    font-size: 8px;
+
+}
+
+img {
+    inline-size: 494px;
+    border-radius: 8px;
+
+}
+
+.box {
+
+    display: inline-block;
+   
+}
+
+
+
+
+.flexContent {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    border: 10px solid rebeccapurple;
+    block-size: 600px;
+}
+
+.item{
+    
+    border: 1px solid rgb(0, 251, 255);
+
+}
+
+.diferente {
+
+    align-self: flex-start;
+
+}
+
+.content
+display flex
+aline items center
+justify content space between
+height 100 
+gap 24 interior 
+
+
+
